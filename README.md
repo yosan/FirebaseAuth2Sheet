@@ -6,7 +6,11 @@ Export Firebase Auth to Google Spreadsheet
 
 1. Create service account assuming "Firebase Authentication Viewer" role
 
+Create servcie account from GCP console.
+
 <img width="940" alt="create-service-account" src="https://user-images.githubusercontent.com/1908575/86920546-e91b6b00-c164-11ea-9271-1b0c70c331b5.png">
+
+Assume "Firebase Authentication Viewer" role.
 
 <img width="940" alt="assume-role" src="https://user-images.githubusercontent.com/1908575/86920972-6ba42a80-c165-11ea-8f8c-687c57741103.png">
 
