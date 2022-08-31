@@ -7,7 +7,7 @@
     "commander": "^5.1.0",
     "firebase-admin": "^8.12.1",
     "googleapis": "39",
-    "moment-timezone": "^0.5.31",
+    "moment-timezone": "^0.5.35",
     "typescript": "^3.9.5"
   },
   "scripts": {
